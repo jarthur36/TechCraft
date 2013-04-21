@@ -1,0 +1,20 @@
+[
+{
+  "modid": "LetsMod",
+  "name": "Let's Mod",
+  "description": "The official LetsMod mod! Learn modding with Pahimar!",
+  "version": "0.0.1",
+  "url": "www.github.com/pahimar/letsmod-mod/",
+  "updateUrl": "",
+  "authorList": [
+    "pahimar"
+  ],
+  "credits": "All of you lovely modders out there!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
